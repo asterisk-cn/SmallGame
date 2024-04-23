@@ -1,8 +1,7 @@
-# Balloon
+# Template for Small Game
+
+## Notes
+
+Edit product name in project settings.
 
 ## Copyright
-
-BGM & SE : 魔王魂
-
-- 8bit27
-- system44
