@@ -1024,10 +1024,10 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 1
+  m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
-  m_SortingLayerID: 0
+  m_SortingLayerID: -1412059999
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &1301283592
@@ -1757,19 +1757,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7265605685600985248, guid: c2c5376362564d34d9c0cc48debcb68f, type: 3}
       propertyPath: m_NormalizedViewPortRect.x
-      value: 0
+      value: 0.07286137
       objectReference: {fileID: 0}
     - target: {fileID: 7265605685600985248, guid: c2c5376362564d34d9c0cc48debcb68f, type: 3}
       propertyPath: m_NormalizedViewPortRect.y
-      value: 0.112766296
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7265605685600985248, guid: c2c5376362564d34d9c0cc48debcb68f, type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 1
+      value: 0.85427725
       objectReference: {fileID: 0}
     - target: {fileID: 7265605685600985248, guid: c2c5376362564d34d9c0cc48debcb68f, type: 3}
       propertyPath: m_NormalizedViewPortRect.height
-      value: 0.7744674
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
